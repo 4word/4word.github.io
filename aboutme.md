@@ -22,3 +22,5 @@ I like to be a leader on my team. Coaching new teammates, developing existing sk
 My family loves to be on the water; you can frequently find us on paddle boards or kayaks during the summer all over the Puget Sound.
 
 I grill on most dry days (which are admittedly not as frequent as I would like). Charcoal grilled vegetables like zucchini, potato wedges, or stuffed peppers are my favorite things to make, but a mean burger and wings are also high on the list.
+
+During the colder months, you will find me taking classes at the YMCA or visiting family. I love the fall and winter holidays and try to celebrate all of them with family and friends.
