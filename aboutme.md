@@ -13,9 +13,9 @@ I like to be a leader on my team. Coaching new teammates, developing existing sk
 
 
 ### History
-- Shopventory - Senior Software Engineer, Engineering - Payments, reporting, and asset management for SMBs [shopventory.com](shopventory.com "Shopventory")
-- Northrim Bank - Core Applications Engineer, Core Banking - Consumer and commercial banking for Anchorage and South East Alaska [northrim.com](northrim.com "Northrim Bank")
-- Dellew Corporation -  Site Manager, Data Systems - Government contracting for IT and other services [dellew.com](www.dellew.com "Dellew Corporation")
+- Shopventory - Senior Software Engineer, Engineering - Payments, reporting, and asset management for SMBs [shopventory.com](https://shopventory.com "Shopventory")
+- Northrim Bank - Core Applications Engineer, Core Banking - Consumer and commercial banking for Anchorage and South East Alaska [northrim.com](https://northrim.com "Northrim Bank")
+- Dellew Corporation -  Site Manager, Data Systems - Government contracting for IT and other services [dellew.com](http://www.dellew.com "Dellew Corporation")
 - Alaska Air National Guard - Data Systems Analyst, Maintenance - Alaska state militia providing air support in coordination with the US Air Force [goang.com](https://www.goang.com/locations/alaska.html "Alaska Air National Guard")
 
 ## Play
