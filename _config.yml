@@ -4,7 +4,7 @@
 title: Titus Peterson
 
 # Short description of your site
-description: Here's Titus
+description: About Titus
 
 # Your name to show in the footer
 author: A human on earth
@@ -13,10 +13,6 @@ author: A human on earth
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
