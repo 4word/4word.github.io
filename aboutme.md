@@ -7,12 +7,14 @@ published: true
 My name is Titus Peterson. I work on modern web applications. I live and play in the Pacific Northwest, near Seattle.
 
 ## Work
+I build applications for small and medium businesses. That includes adding new features, configuring new servers, updating kubernetes or database configs, reviewing code, planning projects, refactoring, squashing bugs, writing tests, and optimizing processes for specific tasks. I try to keep updated well enough to understand and provide feedback for all parts of the applications I work on.
+
 My favorite projects involve developer tooling: creating or improving the tools that other developers use to make great products. Whether I am trying to improve ergonomics, performance, automation, or  durability, I love it.
 
 I like to be a leader on my team. Coaching new teammates, developing existing skills, providing feedback, and guiding projects are all skills I have worked hard on and take pride in.
 
 
-### History
+### Employment History
 - Shopventory - Senior Software Engineer, Engineering - Payments, reporting, and asset management for SMBs [shopventory.com](https://shopventory.com "Shopventory")
 - Northrim Bank - Core Applications Engineer, Core Banking - Consumer and commercial banking for Anchorage and South East Alaska [northrim.com](https://northrim.com "Northrim Bank")
 - Dellew Corporation -  Site Manager, Data Systems - Government contracting for IT and other services [dellew.com](http://www.dellew.com "Dellew Corporation")
